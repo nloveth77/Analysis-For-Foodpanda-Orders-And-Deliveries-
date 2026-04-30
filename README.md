@@ -17,6 +17,8 @@ Analysis Dashboard
 
 
 
+
+
 Story of Data:
 
 
@@ -30,11 +32,13 @@ There were no limitations during the analysis as the data is already clean.
 
 
 
+
 Data Splitting and Preprocessing:
 
 -Data cleaning
 
 I got the dataset downloaded from kaggle.com and uploaded it into my Excel Workbook for further analysis. Basic checks and observations were made in the dataset to ensure it was clean and consistent for analysis. Checks for duplicates, empty cells, inconsistencies in letter casing and spacing were made and corrected. To retain the raw dataset for reference use, I had to duplicate the dataset and use one for the analysis.
+
 
 
 Data Splitting:
@@ -56,6 +60,7 @@ The dataset was split into two variables namely, Dependent Variables and Indepen
 6. Category
 
 
+
 - Dependent Variables;
 
 1. Quantity
@@ -70,6 +75,7 @@ The dataset was split into two variables namely, Dependent Variables and Indepen
 
 
 
+
 Industry Context and Stakeholders:
 
 The industry is a food business. The dataset gives details on the sales of different food categories, the names of their different restaurants and the Cities they operate sales. It further states the Age bracket of customers, their gender, varying orders, and the level of customers’ satisfaction from their deliveries using customer rating.
@@ -77,6 +83,7 @@ The industry is a food business. The dataset gives details on the sales of diffe
 The major Stakeholders of this project are the Location Managers and Sales Managers.
 
 To this business, success means generating more revenues for the business.
+
 
 
 Pre- Analysis:
@@ -98,6 +105,8 @@ Pre- Analysis:
 7. Least dish name by order frequency
 
 
+
+
 -Potential Insights
 
 1. Fine tune out the gender of customers that are more active and explore ways of making other gender active.
@@ -115,6 +124,8 @@ Pre- Analysis:
 7. Search out the dish name with least order frequency and deliveries and ensure the quality of such dishes is improved.
 
 
+
+
 Data Visualization:
 
 1. Gender Churned
@@ -128,6 +139,8 @@ Data Visualization:
 5. Best City by Revenue
 
 6. Age Churned
+
+
 
 
 In-Analysis Observations:
@@ -144,6 +157,7 @@ Observations;
 
 
 
+
 -ANALYSIS- Most Preferred Dish Name
 
 Observations:
@@ -153,6 +167,7 @@ Observations:
 2. Pizza and Fries also received good ratings from customers.
 
 3. Burger dish has the least rating from customers amongst other dishes, which makes it the least preferred.
+
 
 
 -ANALYSIS- Top Restaurant Name
@@ -166,6 +181,7 @@ Observations:
 3. Burger King and McDonald’s restaurants have the lowest ratings from customers.
 
 
+
 -ANALYSIS: Best Category
 
 Observations:
@@ -177,6 +193,7 @@ Observations:
 3. The dessert category has the least quantity of orders and deliveries.
 
 
+
 -ANALYSIS- Best City By Revenue
 
 Observations:
@@ -186,6 +203,7 @@ Observations:
 2. Peshawar city and Lahore city also generated a good volume of revenue from the sales of all their dishes and categories.
 
 3. Karachi city generated the lowest revenue of $900,176.82 from their sales.
+
 
 
 -ANALYSIS- Age Churned
@@ -201,6 +219,7 @@ Observations:
 In-Analysis Insights:
 
 
+
 -ANALYSIS- Gender Churned;
 
 1. Seeing that the female gender patronizes the business more, discounts can be given to the female customers as a way of appreciating and encouraging their patronage.
@@ -208,6 +227,7 @@ In-Analysis Insights:
 2. More similar varieties of the kind of food the male gender buys should be made available to boost their orders.
 
 3. An observation should be made as to why the other gender is inactive in their orders and purchases.
+
 
 
 -ANALYSIS- Most Preferred Dish Name;
@@ -219,6 +239,7 @@ In-Analysis Insights:
 3. A questionnaire can be handed to customers to see views and comments on burger dishes, so that useful measures would be taken to improve the sales of burger dishes.
 
 
+
 -ANALYSIS- Top Restaurant Name;
 
 1. Subway restaurants should keep up with their services, recipes, menus and operations as it makes their customers want to patronize them the most.
@@ -226,6 +247,7 @@ In-Analysis Insights:
 2. KFC restaurant and Pizza Hut restaurant have great potentials of becoming the top restaurants in the coming year by ensuring they upgrade their operations and services.
 
 3. McDonald’s restaurants and Burger King restaurants have to do quick and intentional checks on their operations, services, recipes and menus and ensure major changes are done.
+
 
 
 -ANALYSIS — Best Category;
@@ -237,6 +259,7 @@ In-Analysis Insights:
 3. Because customers don’t really order dessert in large quantities, it shouldn’t be prepared much in the restaurants.
 
 
+
 -ANALYSIS- Best City by Revenue;
 
 1. The Multan city should keep up with the price of their dishes and categories as it is worth the food quality to ensure continuous inflow of great revenues to the business.
@@ -246,11 +269,13 @@ In-Analysis Insights:
 3. Karachi City has to put in more work in all the Foodpanda restaurants within the city to boost revenue.
 
 
+
 -ANALYSIS- Age Churned Analysis;
 
 1. Knowing that the adult age isn’t much active with placing orders, the cooks or chefs and service personnel's in the Foodpanda restaurants should better understand the kind of recipes the adult age preferred for their food, to improve their active counts and patronage.
 
 2. The same methodology used for the age group can also be replicated for the senior age, to ensure their active orders.
+
 
 
 
@@ -266,6 +291,7 @@ Post-Analysis Observation:
 
 
 
+
 Post-Analysis Recommendation:
 
 1. Seeing the quantity and volume of orders from the male and other gender, I recommend that proper measures should be put in place to attract more of the male and other genders to the Foodpanda restaurants. New food menus could be created to motivate the adult and senior age grade of the female customers to help increase their interest in the foods and boost their orders. More of repackaging could be done on dishes like sandwich, burger and fries to get and check reactions from the male and other gender. Restaurants like pizza hut, KFC, and subway should maintain their recipes as it is appealing t o customers. Other cities can send their salespersons or chefs for further training, to ensure more revenues are generated in the other cities.
@@ -278,9 +304,11 @@ Post-Analysis Recommendation:
 
 
 
+
 Conclusion:
 
 This project Analysis on Foodpanda Order and Deliveries gives a detailed information and breakdown of the business sales, orders and deliveries. And with the results obtained from this project, the major stakeholders can make and act on insightful and certain business decisions to better improve the business.
+
 
 
 
