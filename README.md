@@ -6,12 +6,12 @@ This project is for Foodpanda Sales and Deliveries and it’s focused on analyzi
 
 Introduction;
 
-The major dataset used for this analysis is the Sales and Delivery Report for Foodpanda. The key methodology used is Microsoft Excel , and the Pivot table in Microsoft Excel was the major tool used to address and answer all of the project questions.
+The major dataset used for this analysis is the Sales and Delivery Report for Foodpanda. The key methodology used is Microsoft Excel , and Tableau Visualization tool was the major tool used to address and answer all of the project questions.
 
 Analysis Dashboard
 
 
-<img width="1854" height="728" alt="Dashboard For Foodpanda Analysis" src="https://github.com/user-attachments/assets/05feb18c-1abb-465e-893b-4f40378b0509" />
+<img width="1643" height="733" alt="Screenshot of Dashbord" src="https://github.com/user-attachments/assets/d3fc36ef-b2f6-4a8f-b525-e504b872f00f" />
 
 
 
